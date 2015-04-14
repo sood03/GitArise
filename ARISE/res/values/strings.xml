@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ARISE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ARISE</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    
+    <string-array name="countries_array">
+        <item>India</item>
+        <item>Spain</item>
+        <item>Kenya</item>
+        <item>America</item>
+        <item>Pakistan</item>
+    </string-array>
+
+</resources>
